@@ -1,0 +1,8 @@
+cps (220 / 120)
+
+d1 $ sound "bd sn hh cp mt arpy drum odx bd arpy bass2 feel future drum odx"
+d1 $ n "0 1 2 3" # s "909"
+d2 $ n "3 ~ 5 2" # s "cp"
+d3 $ n "1 2 4 5" # s "bass"
+d4 $ n "1 2 3 3 4 5 6" # s "sine"
+hush
